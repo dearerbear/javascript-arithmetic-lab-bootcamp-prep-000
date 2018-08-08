@@ -7,3 +7,5 @@ function outerFunction() {
     console.log(innerVariable);
   }
 }
+
+function outerFunction()
